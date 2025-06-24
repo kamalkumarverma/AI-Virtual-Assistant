@@ -24,6 +24,20 @@ Check out the live version of the AI-Virtual-Assistant here:
 
 🌐 Smart commands: YouTube search/play, Google search, calculator open, weather, and more
 
+
+![image](https://github.com/user-attachments/assets/4dc847f8-c553-4883-be04-f1455ed4c688)
+![image](https://github.com/user-attachments/assets/f28cf7b6-96ab-4220-81db-4ce2d29fe905)
+![image](https://github.com/user-attachments/assets/25583a62-d516-4d9f-bec8-b919fc7851c8)
+![image](https://github.com/user-attachments/assets/02c2d2cd-f840-4d68-a739-5630b9672f6a)
+![image](https://github.com/user-attachments/assets/198d56f3-89cb-4858-9aaf-243d75091838)
+
+![image](https://github.com/user-attachments/assets/52eb4529-e7a6-4fd1-abfe-290d7465899e)
+![image](https://github.com/user-attachments/assets/2003a159-1fc6-4598-a489-ec0b0b7c3da6)
+
+
+
+
+
 🛠️ Tech Stack
 Frontend
 React.js
